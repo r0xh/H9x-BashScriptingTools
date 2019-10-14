@@ -1,4 +1,4 @@
-# ☣ H9x-Bash-Tools ☣
+# ☣ H9x-Bash-Tools ☣ [![alt tag](http://icons.iconarchive.com/icons/dakirby309/simply-styled/32/OS-Linux-icon.png)]
 
 <img src="https://i.imgur.com/l5su6sc.png" data-canonical-src="https://i.imgur.com/l5su6sc.png" style="max-width:100%;">
 
