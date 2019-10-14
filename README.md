@@ -4,10 +4,10 @@
 
 <img src="https://i.imgur.com/TUBl4TB.png" data-canonical-src="https://i.imgur.com/TUBl4TB.png" style="max-width:100%;">
 
-Download It By Git
+Download it by git
 
 ```bash
-$git clone https://github.com/r0xh/H9x-BashScriptingTools.git
+$ git clone https://github.com/r0xh/H9x-BashScriptingTools.git
 ```
 
 Usage:
