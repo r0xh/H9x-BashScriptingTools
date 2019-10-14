@@ -1,6 +1,6 @@
 # H9x-BashScriptingTools
 
-use:
+Usage
 
 *step 1
 upload the .htaccess
