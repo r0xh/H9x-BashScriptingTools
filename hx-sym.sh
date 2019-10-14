@@ -173,6 +173,6 @@ echo 'PC94bXA+PGRpdiBhbGlnbj0nY2VudGVyJz48YnI+IFNZTUxJTksgPGEgdGFyZ2V0PSdfYmxhbm
 fi
 
 
-# Don't Mess With My Tool nd go create ur own
+# Don't Mess With My Tool go and create ur own
 
 
